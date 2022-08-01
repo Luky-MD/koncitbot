@@ -24,6 +24,6 @@ _©Yui - Chan🍭_
 }
 handler.help = ['tiktok12', 'tiktok12', 'tiktokdl12'].map(v => v + ' <url>')
 handler.tags = ['downloader']
-handler.command = /^(tik(tok)?(tok)?(dl)?)$/i
+handler.command = /^(tiki(toko)?(toko)?(dl)?)$/i
 
 export default handler
